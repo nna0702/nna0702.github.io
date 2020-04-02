@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-title: Hi
-include:
-  - "_img"
+title: Nguyet Anh Nguyen
+description: Hi, I'm currently based in Cambridge, MA. In my free time, I love learning new things, honing my data analysis skills and reading books.
+logo: /image/profile_pic.PNG

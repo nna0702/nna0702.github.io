@@ -1,13 +1,24 @@
-# Nguyet Anh
+**What's here?**
 
-Things I like to do in my free time
+[My MOOC courses](#my-mooc-courses)
+- [Programming in Python](#introduction-to-computer-science-and-programming-using-python)
+- [Machine Learning](#machine-learning)
+- [Data Analysis](#data-analysis-for-social-scientists)
 
-## Selected MOOC courses that I have taken
+[My data analysis projects](#my-data-analysis-projects)
+- [Coronavirus outbreak](#coronavirus-outbreak)
+- [Rural health insurance in China](#rural-health-insurance-in-china)
 
-### Introduction to Computer Science and Programming Using Python (edX)
+[Books](#books)
+- [My Goodreads books](#my-goodreads-books)
+
+# My MOOC courses
+
+### Introduction to Computer Science and Programming Using Python
 
 I took this course to gain a deeper understanding of programming and learn how to think algorithmically.
 
+- Platform: edX
 - [Link to course](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 - [Link to assignment code](https://github.com/nna0702/edx_python">Link to weekly assignment code)
 - Programming language used: `Python`
@@ -22,10 +33,11 @@ I took this course to gain a deeper understanding of programming and learn how t
 *What could be improved*
 - The last lecture on sorting algorithms seems quite packed. I wish they could spread the lecture over a few weeks and go through the algorithms in greater detail.
 
-### Machine Learning (Coursera)
+### Machine Learning
 
 Since Machine Learning has been widely discussed, I wanted to find out what it actually means. This is the introductory course for machine learning. Topics include supervised learning, unsupervised learning and best practices in machine learning.
 
+- Platform: Coursera
 - [Link to course](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Link to assignment code](https://github.com/nna0702/machine-learning-assignment)
 - Programming language used: `MATLAB`. There is an option to is `Octave`
@@ -39,12 +51,13 @@ Since Machine Learning has been widely discussed, I wanted to find out what it a
 - The lecturer explain things very clearly.
 
 *What could be improved*
-- I feel that the lecture on neural network could be better. The lecture oould have broken down the maths of derivatives further.
+- The lecturer could have broken down the maths of derivatives further in the lesson on neural network.
 
-### Data Analysis for Social Scientists (edX)
+### Data Analysis for Social Scientists
 
 I have long been interested in international development, especially after reading [Poor Economics](https://www.goodreads.com/book/show/10245602-poor-economics) by Abhijit V. Banerjee and Esther Duflo. I also really liked the randomized controlled trials that [J-PAL](https://www.povertyactionlab.org/) was doing. So I decided to take this course to learn methods for analyzing data to answer questions of economic and policy interest.
 
+- Platform: edX
 - [Link to course](https://www.edx.org/course/data-analysis-for-social-scientists)
 - [Link to assignment code](https://github.com/nna0702/MITx-14.310x)
 - Programming language used: `R`
@@ -57,9 +70,9 @@ I have long been interested in international development, especially after readi
 - The assignments are often based on academic research on real-world problems.
 
 *What could be improved*
-- Some of the solutions to the assignments could be better explained.
+- Some of the solutions to the econometrics assignments could be better explained.
 
-## My data analysis projects
+# My data analysis projects
 
 ### Coronavirus outbreak
 
@@ -70,9 +83,9 @@ During social distancing, I thought it would be a nice idea to explore the trend
 
 Below is the key finding from my analysis. The plot shows the death trajectories of some countries of interest. It is clear that East Asian countries are doing a better job at keeping deaths at bay than their western counterparts at least as of March.
 
-(insert an image here)
+<img src="image/corona_deaths.png"/>
 
-### Rural health insurance in China (Master's thesis)
+### Rural health insurance in China
 
 I completed the master's thesis as part of my MSc in Economics at Birkbeck College, University of London. Given my interest in public economics and international development, I chose to research the public insurance for rural residents in China who are likely to experience poverty. I want to find out whether having the health insurance would encourage rural residents to seek preventive care. Below is an abstract of my thesis.
 
@@ -81,8 +94,56 @@ I completed the master's thesis as part of my MSc in Economics at Birkbeck Colle
 - [Link to code](https://github.com/nna0702/thesis-code)
 - Programming language used: `R`
 
-## Books
+# Books
 
 I aim to read 10-12 books a year and write reviews on [Goodreads](https://www.goodreads.com/user/show/33102598-nguyet-anh). I usually read non-fiction books and my favorite topics are history and politics. I sometimes read fiction and self-help books. As of April 2020, I'm reading "Gone with the Wind" by Margaret Mitchell and the book was written in the context of American Civi War.
 
-I will write more about my favorite books here.
+### My Goodreads Books
+[Recently read](https://www.goodreads.com/review/list/33102598-nguyet-anh?shelf=read&utm_medium=api&utm_source=custom_widget)
+----------------------------------------------------------------------------------------------------------------------------------
+
+[![The Sorrow Of War: A Novel of North Vietnam](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546101718l/780889._SY75_.jpg)](https://www.goodreads.com/review/show/3141697198?utm_medium=api&utm_source=custom_widget "The Sorrow Of War: A Novel of North Vietnam")
+
+![it was amazing](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)
+
+[The Sorrow Of War: A Novel of North Vietnam](https://www.goodreads.com/review/show/3141697198?utm_medium=api&utm_source=custom_widget)
+
+by [Bảo Ninh](https://www.goodreads.com/author/show/147436.B_o_Ninh)
+
+[![A Christmas Carol](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406512317l/5326._SY75_.jpg)](https://www.goodreads.com/review/show/2999668449?utm_medium=api&utm_source=custom_widget "A Christmas Carol")
+
+![really liked it](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_inactive.png)
+
+[A Christmas Carol](https://www.goodreads.com/review/show/2999668449?utm_medium=api&utm_source=custom_widget)
+
+by [Charles Dickens](https://www.goodreads.com/author/show/239579.Charles_Dickens)
+
+[![Milkman](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526985855l/36047860._SY75_.jpg)](https://www.goodreads.com/review/show/2999667851?utm_medium=api&utm_source=custom_widget "Milkman")
+
+![liked it](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com/images/layout/gr_red_star_inactive.png)
+
+[Milkman](https://www.goodreads.com/review/show/2999667851?utm_medium=api&utm_source=custom_widget)
+
+by [Anna Burns](https://www.goodreads.com/author/show/396165.Anna_Burns)
+
+[![The Econocracy: The Perils of Leaving Economics to the Experts](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478714691l/32777647._SY75_.jpg)](https://www.goodreads.com/review/show/2819159266?utm_medium=api&utm_source=custom_widget "The Econocracy: The Perils of Leaving Economics to the Experts")
+
+![really liked it](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_inactive.png)
+
+[The Econocracy: The Perils of Leaving Economics to the Experts](https://www.goodreads.com/review/show/2819159266?utm_medium=api&utm_source=custom_widget)
+
+by [Joe Earle](https://www.goodreads.com/author/show/16121265.Joe_Earle)
+
+[![Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544963815l/34890015._SY75_.jpg)](https://www.goodreads.com/review/show/2710477442?utm_medium=api&utm_source=custom_widget "Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think")
+
+![it was amazing](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)
+
+[Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/review/show/2710477442?utm_medium=api&utm_source=custom_widget)
+
+by [Hans Rosling](https://www.goodreads.com/author/show/2790706.Hans_Rosling)
+
+The book is well-written and provides interesting insights on how we could be wrong about the world. The ideas are presented in a concise and succinct. I really enjoyed reading the book, as much as I enjoy watching Hans' videos.
+
+[![goodreads.com](https://www.goodreads.com/images/widget/widget_logo.gif)](https://www.goodreads.com/)
+
+Share [book reviews](https://www.goodreads.com/) and ratings with Nguyet Anh, and even join a [book club](https://www.goodreads.com/group) on Goodreads.
