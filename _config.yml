@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Hi
-image: /image/profile_pic.png
+include:
+  - "_img"
