@@ -1,6 +1,6 @@
 **What's here?**
 
-[MOOC courses](#selected-mooc-courses-that-i-have-taken)
+[My MOOC courses](#my-mooc-courses)
 - [Programming in Python](#introduction-to-computer-science-and-programming-using-python)
 - [Machine Learning](#machine-learning)
 - [Data Analysis](#data-analysis-for-social-scientists)
@@ -12,7 +12,7 @@
 [Books](#books)
 - [My Goodreads books](#my-goodreads-books)
 
-# Selected MOOC courses that I have taken
+# My MOOC courses
 
 ### Introduction to Computer Science and Programming Using Python
 
