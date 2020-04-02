@@ -79,4 +79,12 @@ I completed the master's thesis as part of my MSc in Economics at Birkbeck Colle
 > In 2011, China surprised the world by announcing that it had achieved near universal health insurance coverage for the population of 1.3 billion. This miracle chiefly results from the constant and rigorous initiatives by the government with a strong focus on rural residents who are considered vulnerable. It is important to ask whether universal insurance coverage has made the Chinese public health system more efficient. This paper examines the presence of ex-ante moral hazard in the Rural New Cooperative Medical Scheme. Using the data from the China Health and Nutrition Survey in a logistic regression model, the paper finds that a more generous insurance scheme leads to a 1.2% to 1.5% decrease in the probability of using preventive care. The effect is small but statistically significant. While this suggests the presence of ex-ante moral hazard, the evidence is not strong and based on certain assumptions.
 
 - [Link to code](https://github.com/nna0702/thesis-code)
-- Programming language used: `R'
+- Programming language used: `R`
+
+(insert an image here)
+
+## Books
+
+I aim to read 10-12 books a year and write reviews on [Goodreads](https://www.goodreads.com/user/show/33102598-nguyet-anh). I usually read non-fiction books and my favorite topics are history and politics. I sometimes read fiction and self-help books. As of April 2020, I'm reading "Gone with the Wind" by Margaret Mitchell and the book was written in the context of American Civi War.
+
+I will write more about my favorite books here.
