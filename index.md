@@ -10,6 +10,7 @@
 - [Rural health insurance in China](#rural-health-insurance-in-china)
 
 [Books](#books)
+- [My Goodreads books](#my-goodreads-books)
 
 # Selected MOOC courses that I have taken
 
@@ -97,4 +98,54 @@ I completed the master's thesis as part of my MSc in Economics at Birkbeck Colle
 
 I aim to read 10-12 books a year and write reviews on [Goodreads](https://www.goodreads.com/user/show/33102598-nguyet-anh). I usually read non-fiction books and my favorite topics are history and politics. I sometimes read fiction and self-help books. As of April 2020, I'm reading "Gone with the Wind" by Margaret Mitchell and the book was written in the context of American Civi War.
 
-I will write more about my favorite books here.
+### My Goodreads Books
+[My Goodreads](https://www.goodreads.com/review/list/33102598-nguyet-anh?shelf=read&utm_medium=api&utm_source=custom_widget)
+----------------------------------------------------------------------------------------------------------------------------------
+
+[![The Sorrow Of War: A Novel of North Vietnam](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546101718l/780889._SY75_.jpg)](https://www.goodreads.com/review/show/3141697198?utm_medium=api&utm_source=custom_widget "The Sorrow Of War: A Novel of North Vietnam")
+
+![it was amazing](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)
+
+[The Sorrow Of War: A Novel of North Vietnam](https://www.goodreads.com/review/show/3141697198?utm_medium=api&utm_source=custom_widget)
+
+by [Bảo Ninh](https://www.goodreads.com/author/show/147436.B_o_Ninh)
+
+[![A Christmas Carol](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406512317l/5326._SY75_.jpg)](https://www.goodreads.com/review/show/2999668449?utm_medium=api&utm_source=custom_widget "A Christmas Carol")
+
+![really liked it](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_inactive.png)
+
+[A Christmas Carol](https://www.goodreads.com/review/show/2999668449?utm_medium=api&utm_source=custom_widget)
+
+by [Charles Dickens](https://www.goodreads.com/author/show/239579.Charles_Dickens)
+
+[![Milkman](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526985855l/36047860._SY75_.jpg)](https://www.goodreads.com/review/show/2999667851?utm_medium=api&utm_source=custom_widget "Milkman")
+
+![liked it](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_inactive.png)![](https://www.goodreads.com/images/layout/gr_red_star_inactive.png)
+
+[Milkman](https://www.goodreads.com/review/show/2999667851?utm_medium=api&utm_source=custom_widget)
+
+by [Anna Burns](https://www.goodreads.com/author/show/396165.Anna_Burns)
+
+[![The Econocracy: The Perils of Leaving Economics to the Experts](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478714691l/32777647._SY75_.jpg)](https://www.goodreads.com/review/show/2819159266?utm_medium=api&utm_source=custom_widget "The Econocracy: The Perils of Leaving Economics to the Experts")
+
+![really liked it](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_inactive.png)
+
+[The Econocracy: The Perils of Leaving Economics to the Experts](https://www.goodreads.com/review/show/2819159266?utm_medium=api&utm_source=custom_widget)
+
+by [Joe Earle](https://www.goodreads.com/author/show/16121265.Joe_Earle)
+
+[![Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544963815l/34890015._SY75_.jpg)](https://www.goodreads.com/review/show/2710477442?utm_medium=api&utm_source=custom_widget "Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think")
+
+![it was amazing](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)![](https://www.goodreads.com/images/layout/gr_red_star_active.png)
+
+[Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/review/show/2710477442?utm_medium=api&utm_source=custom_widget)
+
+by [Hans Rosling](https://www.goodreads.com/author/show/2790706.Hans_Rosling)
+
+The book is well-written and provides interesting insights on how we could be wrong about the world. The ideas are presented in a concise and succinct. I really enjoyed reading the book, as much as I enjoy watching Hans' videos.
+
+  
+
+[![goodreads.com](https://www.goodreads.com/images/widget/widget_logo.gif)](https://www.goodreads.com/)
+
+Share [book reviews](https://www.goodreads.com/) and ratings with Nguyet Anh, and even join a [book club](https://www.goodreads.com/group) on Goodreads.
