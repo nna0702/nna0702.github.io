@@ -1,6 +1,6 @@
-# Nguyet Anh Nguyen
+# Nguyet Anh
 
-Things I like to do in my free time.
+Things I like to do in my free time
 
 ## Selected MOOC courses that I have taken
 
