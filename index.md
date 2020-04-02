@@ -43,7 +43,7 @@ Since Machine Learning has been widely discussed, I wanted to find out what it a
 
 ### Data Analysis for Social Scientists (edX)
 
-I have long been interested in international development, especially after reading [Poor Economics](https://www.goodreads.com/book/show/10245602-poor-economics) by Abhijit V. Banerjee and Esther Duflo. I also really liked the randomized controlled trials that [J-PAL] was doing. So I decided to take this course to learn methods for analyzing data to answer questions of economic and policy interest.
+I have long been interested in international development, especially after reading [Poor Economics](https://www.goodreads.com/book/show/10245602-poor-economics) by Abhijit V. Banerjee and Esther Duflo. I also really liked the randomized controlled trials that [J-PAL](https://www.povertyactionlab.org/) was doing. So I decided to take this course to learn methods for analyzing data to answer questions of economic and policy interest.
 
 - [Link to course](https://www.edx.org/course/data-analysis-for-social-scientists)
 - [Link to assignment code](https://github.com/nna0702/MITx-14.310x)
