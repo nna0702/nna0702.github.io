@@ -7,7 +7,7 @@ What's here?
 
 [My data analysis projects](#my-data-analysis-projects)
 - [Coronavirus outbreak](#coronavirus-outbreak)
-- [Rural health insurance in China](#rural-health-insurance-in-china]
+- [Rural health insurance in China](#rural-health-insurance-in-china)
 
 [Books](#books)
 
