@@ -83,7 +83,7 @@ During social distancing, I thought it would be a nice idea to explore the trend
 
 Below is the key finding from my analysis. The plot shows the death trajectories of some countries of interest. It is clear that East Asian countries are doing a better job at keeping deaths at bay than their western counterparts at least as of March.
 
-(insert an image here)
+<img src="assets/img/corona_deaths.png"/>
 
 ### Rural health insurance in China
 
