@@ -66,7 +66,7 @@ I have long been interested in international development, especially after readi
 During social distancing, I thought it would be a nice idea to explore the trends directly from the data instead of browsing too much news on the Internet. Overall, I tried to plot the epidemic trajectories by country.
 
 - [Link to code](https://github.com/nna0702/coronavirus_2019)
-- Progamming language used: `Python'
+- Progamming language used: `Python`
 
 Below is the key finding from my analysis. The plot shows the death trajectories of some countries of interest. It is clear that East Asian countries are doing a better job at keeping deaths at bay than their western counterparts at least as of March.
 
