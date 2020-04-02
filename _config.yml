@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Nguyet Anh
 description: Things I like to do in my free time
-logo: /profile_pic.png
+logo: <img src="profile_pic.png"/>
