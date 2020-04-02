@@ -1,4 +1,4 @@
-What's here?
+**What's here?**
 
 [MOOC courses](#selected-mooc-courses-that-i-have-taken)
 - [Programming in Python](#introduction-to-computer-science-and-programming-using-python)
