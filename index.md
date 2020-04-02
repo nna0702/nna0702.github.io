@@ -1,5 +1,7 @@
 # Nguyet Anh
 
+![](/profile_pic.png){:class="img-responsive"}
+
 Things I like to do in my free time
 
 ## Selected MOOC courses that I have taken
