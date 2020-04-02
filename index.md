@@ -1,13 +1,23 @@
 What's here?
 
 [MOOC courses](#selected-mooc-courses-that-i-have-taken)
+- [Programming in Python](#introduction-to-computer-science-and-programming-using-python)
+- [Machine Learning](#machine-learning)
+- [Data Analysis](#data-analysis-for-social-scientists)
+
+[My data analysis projects](#my-data-analysis-projects)
+- [Coronavirus outbreak](#coronavirus-outbreak)
+- [Rural health insurance in China](#rural-health-insurance-in-china]
+
+[Books](#books)
 
 # Selected MOOC courses that I have taken
 
-### Introduction to Computer Science and Programming Using Python (edX)
+### Introduction to Computer Science and Programming Using Python
 
 I took this course to gain a deeper understanding of programming and learn how to think algorithmically.
 
+- Platform: edX
 - [Link to course](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 - [Link to assignment code](https://github.com/nna0702/edx_python">Link to weekly assignment code)
 - Programming language used: `Python`
@@ -22,10 +32,11 @@ I took this course to gain a deeper understanding of programming and learn how t
 *What could be improved*
 - The last lecture on sorting algorithms seems quite packed. I wish they could spread the lecture over a few weeks and go through the algorithms in greater detail.
 
-### Machine Learning (Coursera)
+### Machine Learning
 
 Since Machine Learning has been widely discussed, I wanted to find out what it actually means. This is the introductory course for machine learning. Topics include supervised learning, unsupervised learning and best practices in machine learning.
 
+- Platform: Coursera
 - [Link to course](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Link to assignment code](https://github.com/nna0702/machine-learning-assignment)
 - Programming language used: `MATLAB`. There is an option to is `Octave`
@@ -41,10 +52,11 @@ Since Machine Learning has been widely discussed, I wanted to find out what it a
 *What could be improved*
 - I feel that the lecture on neural network could be better. The lecture oould have broken down the maths of derivatives further.
 
-### Data Analysis for Social Scientists (edX)
+### Data Analysis for Social Scientists
 
 I have long been interested in international development, especially after reading [Poor Economics](https://www.goodreads.com/book/show/10245602-poor-economics) by Abhijit V. Banerjee and Esther Duflo. I also really liked the randomized controlled trials that [J-PAL](https://www.povertyactionlab.org/) was doing. So I decided to take this course to learn methods for analyzing data to answer questions of economic and policy interest.
 
+- Platform: edX
 - [Link to course](https://www.edx.org/course/data-analysis-for-social-scientists)
 - [Link to assignment code](https://github.com/nna0702/MITx-14.310x)
 - Programming language used: `R`
@@ -72,7 +84,7 @@ Below is the key finding from my analysis. The plot shows the death trajectories
 
 (insert an image here)
 
-### Rural health insurance in China (Master's thesis)
+### Rural health insurance in China
 
 I completed the master's thesis as part of my MSc in Economics at Birkbeck College, University of London. Given my interest in public economics and international development, I chose to research the public insurance for rural residents in China who are likely to experience poverty. I want to find out whether having the health insurance would encourage rural residents to seek preventive care. Below is an abstract of my thesis.
 
