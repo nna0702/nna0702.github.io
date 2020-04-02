@@ -1,7 +1,5 @@
 # Nguyet Anh
 
-![image](/profile_pic.jpg)
-
 Things I like to do in my free time
 
 ## Selected MOOC courses that I have taken
