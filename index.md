@@ -1,8 +1,4 @@
-# Nguyet Anh
-
-Things I like to do in my free time
-
-## Selected MOOC courses that I have taken
+# Selected MOOC courses that I have taken
 
 ### Introduction to Computer Science and Programming Using Python (edX)
 
@@ -59,7 +55,7 @@ I have long been interested in international development, especially after readi
 *What could be improved*
 - Some of the solutions to the assignments could be better explained.
 
-## My data analysis projects
+# My data analysis projects
 
 ### Coronavirus outbreak
 
@@ -81,7 +77,7 @@ I completed the master's thesis as part of my MSc in Economics at Birkbeck Colle
 - [Link to code](https://github.com/nna0702/thesis-code)
 - Programming language used: `R`
 
-## Books
+# Books
 
 I aim to read 10-12 books a year and write reviews on [Goodreads](https://www.goodreads.com/user/show/33102598-nguyet-anh). I usually read non-fiction books and my favorite topics are history and politics. I sometimes read fiction and self-help books. As of April 2020, I'm reading "Gone with the Wind" by Margaret Mitchell and the book was written in the context of American Civi War.
 
