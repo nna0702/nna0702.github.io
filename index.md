@@ -99,7 +99,7 @@ I completed the master's thesis as part of my MSc in Economics at Birkbeck Colle
 I aim to read 10-12 books a year and write reviews on [Goodreads](https://www.goodreads.com/user/show/33102598-nguyet-anh). I usually read non-fiction books and my favorite topics are history and politics. I sometimes read fiction and self-help books. As of April 2020, I'm reading "Gone with the Wind" by Margaret Mitchell and the book was written in the context of American Civi War.
 
 ### My Goodreads Books
-[My Goodreads](https://www.goodreads.com/review/list/33102598-nguyet-anh?shelf=read&utm_medium=api&utm_source=custom_widget)
+[Recently read](https://www.goodreads.com/review/list/33102598-nguyet-anh?shelf=read&utm_medium=api&utm_source=custom_widget)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 [![The Sorrow Of War: A Novel of North Vietnam](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546101718l/780889._SY75_.jpg)](https://www.goodreads.com/review/show/3141697198?utm_medium=api&utm_source=custom_widget "The Sorrow Of War: A Novel of North Vietnam")
@@ -143,8 +143,6 @@ by [Joe Earle](https://www.goodreads.com/author/show/16121265.Joe_Earle)
 by [Hans Rosling](https://www.goodreads.com/author/show/2790706.Hans_Rosling)
 
 The book is well-written and provides interesting insights on how we could be wrong about the world. The ideas are presented in a concise and succinct. I really enjoyed reading the book, as much as I enjoy watching Hans' videos.
-
-  
 
 [![goodreads.com](https://www.goodreads.com/images/widget/widget_logo.gif)](https://www.goodreads.com/)
 
