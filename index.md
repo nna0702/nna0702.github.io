@@ -1,6 +1,6 @@
 # Nguyet Anh
 
-<img src="profile_pic.png"/>
+![image](/profile_pic.jpg)
 
 Things I like to do in my free time
 
