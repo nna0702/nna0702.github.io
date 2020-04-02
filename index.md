@@ -50,7 +50,7 @@ Since Machine Learning has been widely discussed, I wanted to find out what it a
 - The lecturer explain things very clearly.
 
 *What could be improved*
-- I feel that the lecture on neural network could be better. The lecture oould have broken down the maths of derivatives further.
+- The lecturer could have broken down the maths of derivatives further in the lesson on neural network further.
 
 ### Data Analysis for Social Scientists
 
@@ -69,7 +69,7 @@ I have long been interested in international development, especially after readi
 - The assignments are often based on academic research on real-world problems.
 
 *What could be improved*
-- Some of the solutions to the assignments could be better explained.
+- Some of the solutions to the econometrics assignments could be better explained.
 
 # My data analysis projects
 
