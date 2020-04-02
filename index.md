@@ -81,8 +81,6 @@ I completed the master's thesis as part of my MSc in Economics at Birkbeck Colle
 - [Link to code](https://github.com/nna0702/thesis-code)
 - Programming language used: `R`
 
-(insert an image here)
-
 ## Books
 
 I aim to read 10-12 books a year and write reviews on [Goodreads](https://www.goodreads.com/user/show/33102598-nguyet-anh). I usually read non-fiction books and my favorite topics are history and politics. I sometimes read fiction and self-help books. As of April 2020, I'm reading "Gone with the Wind" by Margaret Mitchell and the book was written in the context of American Civi War.
