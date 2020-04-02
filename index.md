@@ -51,7 +51,7 @@ Since Machine Learning has been widely discussed, I wanted to find out what it a
 - The lecturer explain things very clearly.
 
 *What could be improved*
-- The lecturer could have broken down the maths of derivatives further in the lesson on neural network further.
+- The lecturer could have broken down the maths of derivatives further in the lesson on neural network.
 
 ### Data Analysis for Social Scientists
 
