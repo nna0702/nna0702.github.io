@@ -4,7 +4,7 @@ I am currently based in Cambridge, MA after having lived in Hanoi, Singapore, Ox
 
 **What's here?**
 
-[My MOOC courses](#my-mooc-courses)
+[MOOC courses](#my-mooc-courses)
 - [Programming in Python](#introduction-to-computer-science-and-programming-using-python)
 - [Machine Learning](#machine-learning)
 - [Data Analysis](#data-analysis-for-social-scientists)
@@ -15,7 +15,7 @@ I am currently based in Cambridge, MA after having lived in Hanoi, Singapore, Ox
 
 [Books](#books)
 
-# My MOOC courses
+# Some MOOC courses that I've taken
 
 ### Introduction to Computer Science and Programming Using Python
 
