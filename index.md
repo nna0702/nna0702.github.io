@@ -10,7 +10,7 @@ I am currently based in Cambridge, MA after having lived in Hanoi, Singapore, Ox
 - [Data Analysis](#data-analysis-for-social-scientists)
 
 [My data analysis projects](#my-data-analysis-projects)
-- [k-means clustering](#k_means-clustering)
+- [k-means clustering](#k-means-clustering)
 - [Coronavirus outbreak](#coronavirus-outbreak)
 - [Rural health insurance in China](#rural-health-insurance-in-china)
 
