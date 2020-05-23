@@ -10,6 +10,7 @@ I am currently based in Cambridge, MA after having lived in Hanoi, Singapore, Ox
 - [Data Analysis](#data-analysis-for-social-scientists)
 
 [My data analysis projects](#my-data-analysis-projects)
+- [k-means clustering](#k_means-clustering)
 - [Coronavirus outbreak](#coronavirus-outbreak)
 - [Rural health insurance in China](#rural-health-insurance-in-china)
 
@@ -76,6 +77,13 @@ I have long been interested in international development, especially after readi
 - Some of the solutions to the econometrics assignments could be better explained.
 
 # My data analysis projects
+
+### k-means clustering
+
+I implemented k-means clustering algorithm and applied it to a two-dimensional dataset.
+
+- [Link to code](https://github.com/nna0702/k_means)
+- Progamming language used: `Python`
 
 ### Coronavirus outbreak
 
