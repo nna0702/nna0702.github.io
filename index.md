@@ -107,7 +107,7 @@ I completed the master's thesis as part of my MSc in Economics at Birkbeck Colle
 
 # Books
 
-I aim to read 10-12 books a year and write reviews on [Goodreads](https://www.goodreads.com/user/show/33102598-nguyet-anh). I usually read non-fiction books and my favorite topics are history and politics. I sometimes read fiction and self-help books. As of April 2020, I'm reading "Gone with the Wind" by Margaret Mitchell and the book was written in the context of American Civi War.
+I aim to read 10-12 books a year and write reviews on [Goodreads](https://www.goodreads.com/user/show/33102598-nguyet-anh). I usually read non-fiction books and my favorite topics are history and politics. I sometimes read fiction and self-help books. At the moment, I'm reading "Journey to the West" by Wu Cheng'en and it is one of the Four Great Classical Novels of Chinese literature.
 
 [Recently read books](https://www.goodreads.com/review/list/33102598-nguyet-anh?shelf=read&utm_medium=api&utm_source=custom_widget)
 ----------------------------------------------------------------------------------------------------------------------------------
