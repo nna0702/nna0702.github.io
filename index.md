@@ -24,7 +24,7 @@ I took this course to gain a deeper understanding of programming and learn how t
 
 - Platform: edX
 - [Link to course](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-- [Link to assignment code](https://github.com/nna0702/edx_python">Link to weekly assignment code)
+- [Link to assignment code](https://github.com/nna0702/edx_python)
 - Programming language used: `Python`
 
 #### Course review: 9/10
